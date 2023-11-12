@@ -1,5 +1,5 @@
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = int(input("Podaj liczbe: "))
+b = int(input("Podaj liczbe: "))
 
 print("1. dodawanie")
 print("2. odejmowanie")
@@ -7,9 +7,6 @@ print("3. mnozenie")
 print("4. dzielenie")
 print("5. potegowanie")
 operation = input("podaj oprracje: ")
-
-
-
 
 if operation == "1":
     result = a + b
