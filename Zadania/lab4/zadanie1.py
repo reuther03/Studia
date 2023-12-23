@@ -3,8 +3,8 @@ names = ["Anna", "Krzysztof", "Michał", "Paweł"]
 print(sorted(names))
 # b
 names.extend(["Julia", "Tomasz"])
-popped_name = names.pop()
-print(popped_name)
+pop_name = names.pop()
+print(pop_name)
 # c
 names.insert(2, "Adam")
 print(names)
