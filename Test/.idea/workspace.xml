@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cb7958f-65f1-495a-9deb-ce1b0f25809b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/for_zad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/wejsciowka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/wejsciowka2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/Łańcuchy_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/Łańcuchy_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadania/Łańcuchy_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/lab4/zadadnie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/lab4/zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/lab4/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/lab4/zadanie3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,39 +89,35 @@
       <workItem from="1699872837062" duration="793000" />
       <workItem from="1699874721307" duration="1388000" />
       <workItem from="1699876322188" duration="415000" />
-      <workItem from="1700433752740" duration="2082000" />
+      <workItem from="1700433752740" duration="2237000" />
+      <workItem from="1701790492327" duration="196000" />
+      <workItem from="1703358778164" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$for_zad2.coverage" NAME="for_zad2 Coverage Results" MODIFIED="1700434063635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
+    <SUITE FILE_PATH="coverage/Test$zadanie3.coverage" NAME="zadanie3 Coverage Results" MODIFIED="1703359662356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania/lab4" />
     <SUITE FILE_PATH="coverage/Test$if_zadaniedodatkowe2.coverage" NAME="if_zadaniedodatkowe2 Coverage Results" MODIFIED="1699737049140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$for_zad5.coverage" NAME="for_zad5 Coverage Results" MODIFIED="1700434430226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$acuchy_2.coverage" NAME="Łańcuchy_2 Coverage Results" MODIFIED="1700435679618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
-    <SUITE FILE_PATH="coverage/Test$main.coverage" NAME="main Coverage Results" MODIFIED="1700433942420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$main.coverage" NAME="main Coverage Results" MODIFIED="1703359353461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Test$if_zadanie2.coverage" NAME="if_zadanie2 Coverage Results" MODIFIED="1699736459271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$for_zad6.coverage" NAME="for_zad6 Coverage Results" MODIFIED="1700435020008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$acuchy_1.coverage" NAME="Łańcuchy_1 Coverage Results" MODIFIED="1700435461467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$for_zad3.coverage" NAME="for_zad3 Coverage Results" MODIFIED="1700434196539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
+    <SUITE FILE_PATH="coverage/Test$zadanie1.coverage" NAME="zadanie1 Coverage Results" MODIFIED="1703359442563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania/lab4" />
     <SUITE FILE_PATH="coverage/Test$wejsciowka.coverage" NAME="wejsciowka Coverage Results" MODIFIED="1699873391694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
+    <SUITE FILE_PATH="coverage/Test$zadadnie4.coverage" NAME="zadadnie4 Coverage Results" MODIFIED="1703360212961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania/lab4" />
+    <SUITE FILE_PATH="coverage/Test$acuchy_3.coverage" NAME="Łańcuchy_3 Coverage Results" MODIFIED="1700435919264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$wejsciowka2.coverage" NAME="wejsciowka2 Coverage Results" MODIFIED="1699873490594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$for_zad4.coverage" NAME="for_zad4 Coverage Results" MODIFIED="1700434323213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$lab.coverage" NAME="lab Coverage Results" MODIFIED="1699875941600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$if_zadanie4.coverage" NAME="if_zadanie4 Coverage Results" MODIFIED="1699736564216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
     <SUITE FILE_PATH="coverage/Test$for_zad1.coverage" NAME="for_zad1 Coverage Results" MODIFIED="1700433985267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania" />
+    <SUITE FILE_PATH="coverage/Test$zadanie2.coverage" NAME="zadanie2 Coverage Results" MODIFIED="1703359562365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Zadania/lab4" />
   </component>
 </project>
